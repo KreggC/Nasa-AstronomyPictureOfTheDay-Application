@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NasaAstronomyPictureOfTheDay</string>
+    <string name="home_button">Accueil</string>
+    <string name="search_button">Recherche</string>
+    <string name="save_button">Sauver</string>
+    <string name="saved_button">Sauvegardé</string>
+    <string name="help_button">Aider</string>
+    <string name="back_button">Bouton de retour</string>
+    <string name="image_description">L\'image présentée est celle décrite dans le titre et l\'explication</string>
+    <string name="example">Vénus et Jupiter ont peut-être attiré votre attention ces derniers temps.  La conjonction imminente des deux planètes les plus brillantes visibles dans le ciel clair du soir a été difficile à manquer. Avec Jupiter en tête, à partir du 21 février et jusqu\'au 2 mars, leur rapprochement est chroniqué quotidiennement, de gauche à droite, dans ces panneaux de Dhanbad, en Inde. Près de l\'horizon ouest, les couleurs du ciel du soir et les expositions utilisées pour chaque panneau dépendent des conditions locales au moment du coucher du soleil. Le 22 février, Jupiter et Vénus ont été rejoints par le jeune croissant de Lune. Le 2 mars, la paire céleste semblait n\'être séparée que par la largeur d\'une pleine lune. Bien sûr, à cette date, les deux planètes étaient physiquement séparées par plus de 600 millions de kilomètres sur leur orbite autour du Soleil. Dans les jours à venir, Jupiter s\'installera lentement dans l\'éblouissement du coucher du soleil, mais Vénus continuera à s\'éloigner du Soleil dans le ciel occidental pour exceller dans son rôle actuel d\'étoile brillante du soir.</string>
+</resources>
